@@ -11,10 +11,10 @@ Prompt: a data scientist sitting on a hillside, digital style
 
 Prompt: a data scientist sitting on a hillside, digital style
 
-![](ds_hillside_dalle_1.jpg)
+![]('ds_hillside_dalle_1.jpg')
 
-![](ds_hillside_dalle_2.jpg)
+![]('ds_hillside_dalle_2.jpg')
 
-![](ds_hillside_dalle_3.jpg)
+![]('ds_hillside_dalle_3.jpg')
 
-![](ds_hillside_dalle_4.jpg)
+![]('ds_hillside_dalle_4.jpg')
