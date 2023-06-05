@@ -7,14 +7,21 @@ https://re-thought.com/how-to-create-effective-prompts-for-ai-image-generation/#
 
 Prompt: a data scientist sitting on a hillside, digital style
 
+![](images/ds_hillside_sd_1.jpg)
+
+![](images/ds_hillside_sd_2.jpg)
+
+![](images/ds_hillside_sd_3.jpg)
+
+
 ## Microsoft Bing's Distribution of DALL-E
 
 Prompt: a data scientist sitting on a hillside, digital style
 
-![Image](images/ds_hillside_dalle_1.jpg)
+![](images/ds_hillside_dalle_1.jpg)
 
-![Image](images/ds_hillside_dalle_2.jpg)
+![](images/ds_hillside_dalle_2.jpg)
 
-![Image](images/ds_hillside_dalle_3.jpg)
+![](images/ds_hillside_dalle_3.jpg)
 
-![Image](images/ds_hillside_dalle_4.jpg)
+![](images/ds_hillside_dalle_4.jpg)
